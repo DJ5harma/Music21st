@@ -1,7 +1,7 @@
 import "./Home.css";
 import PopVideos from "./PopVideos";
 
-import channelLogoImg from "../assets/channels_profile.jpg";
+import channelLogoImg from "../assets/channels_profile.png";
 
 const Home = () => {
   return (
