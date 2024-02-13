@@ -1,0 +1,24 @@
+#top-videos-container {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    flex-wrap: wrap;
+  
+    .video {
+      border: solid white;
+      width: 25vw;
+      height: 14vw;
+      margin: 0.8vw;
+      border-radius: 10px;
+    }
+  }
+  @keyframes vid-ani {
+    100% {
+      box-shadow: 0 0 7px 10px white;
+      margin: 1vw;
+    }
+  }
+  .video:hover {
+    border: none;
+    animation: vid-ani 0.2s forwards;
+  }
