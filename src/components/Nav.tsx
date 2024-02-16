@@ -3,11 +3,8 @@ import youtubeLogo from "../assets/youtube-logo.svg";
 import instagramLogo from "../assets/instagram-logo.svg";
 import facebookLogo from "../assets/facebook-logo.svg";
 import notificationSound from "../assets/notification-sound.mp3";
-
-import channel2img from "../assets/channel2img.jpg";
-import channel3img from "../assets/channel3img.jpg";
-
 import { useState } from "react";
+import { Link } from "react-router-dom";
 
 const Nav = () => {
   const ntfSound = new Audio(notificationSound);
@@ -25,16 +22,25 @@ const Nav = () => {
     <>
       {showOtherChannels && (
         <div id="other-channels-div" onClick={handleShowOtherChannels}>
-          <a href="https://www.youtube.com/channel/UC5rrdDgRP8Jq5JfoDrRWQGQ" target="_blank">
+          <a
+            href="https://www.youtube.com/channel/UC5rrdDgRP8Jq5JfoDrRWQGQ"
+            target="_blank"
+          >
             <div className="channel-div">
               <h1>Sanatan Music:</h1>
-              <img src={channel2img} alt="" />
+              <img
+                src="https://yt3.googleusercontent.com/i6FVtyxHzcSHWxXV7zrIafNnTi84Qtq9kPPHJS07bdmHCnp4w4IsjdcczQ_paXTY5ZtSG_Uufw=s176-c-k-c0x00ffffff-no-rj"
+                alt=""
+              />
             </div>
           </a>
           <a href="https://www.youtube.com/@sudhirsharma7586" target="_blank">
             <div className="channel-div">
               <h1>Sudhir Sharma: </h1>
-              <img src={channel3img} alt="" />
+              <img
+                src="https://yt3.googleusercontent.com/qb7pdUODXupZCgmVMvBFHryOBArRRGImVlAQflrRCe0zEZprMDgoi9xz_RXO5b2OJCFUWciX=s176-c-k-c0x00ffffff-no-rj"
+                alt=""
+              />
             </div>
           </a>
           <p
@@ -79,19 +85,26 @@ const Nav = () => {
         </div>
       </nav>
       <nav id="left-nav">
+        <p>
+          <Link to={"/home"}>Home</Link>
+        </p>
         <p>Support us!</p>
         <p>Be a Member!</p>
         <p>
-          <a href="https://www.youtube.com/@Music21st/playlists" target="_blank">
+          <a
+            href="https://www.youtube.com/@Music21st/playlists"
+            target="_blank"
+          >
             Our Playlists
           </a>
         </p>
         <p onClick={handleShowOtherChannels}>Other channels</p>
-        <p>Sample</p>
-        <p>Sample</p>
-        <p>Sample</p>
-        <p>Sample</p>
-        <p>Sample</p>
+        <p>
+          <Link to={"/about"}>About</Link>
+        </p>
+        {/* <p>Sample</p>
+        <p>Sample</p> */}
+        {/* <p>Sample</p> */}
       </nav>
     </>
   );
