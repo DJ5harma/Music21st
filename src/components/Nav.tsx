@@ -106,6 +106,28 @@ const Nav = () => {
         <p>Sample</p> */}
         {/* <p>Sample</p> */}
       </nav>
+      <nav id="right-nav">
+        <p>
+          <Link to={"/ssp"}>Ssp</Link>
+        </p>
+        <p>Support us!</p>
+        <p>Be a Member!</p>
+        <p>
+          <a
+            href="https://www.youtube.com/@Music21st/playlists"
+            target="_blank"
+          >
+            Our Playlists
+          </a>
+        </p>
+        <p onClick={handleShowOtherChannels}>Other channels</p>
+        <p>
+          <Link to={"/about"}>About</Link>
+        </p>
+        {/* <p>Sample</p>
+        <p>Sample</p> */}
+        {/* <p>Sample</p> */}
+      </nav>
     </>
   );
 };

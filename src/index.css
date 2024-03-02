@@ -1,48 +1,59 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: Poppins;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  font-family: "Noto Sans";
   color: white;
-  text-decoration: none;
+  /* background: linear-gradient(#ff0c0c, #ff049f); */
 }
 body {
-  /* background-color: rgb(62, 23, 9); */
-  background-image: url("./assets/channels_banner.jpg");
+  background-image: url("../channels_banner.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: stretch;
-  /* width: 90vw;
-  height: 100vh; */
 }
-#channel-info-div{
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  height: 80vh;
-
-  position: absolute;
-  top: 15vh;
-  left: 15vw;
-  background-color: rgba(0, 0, 0, 0.424);
-  padding: 20px;
-  align-items: center;
-  p{
-    padding: 0 50px;
-    font-size: larger;
-  }
-  img{
-    width: 300px;
-    height: 300px;
-    border-radius: 200px;
-    margin-right: 20px;
-
-    box-shadow: 0 0 10px 10px ;
-  }
-  img:hover{
-    box-shadow: 0 0 30px 30px;
+#left-nav {
+  width: 12vw;
+  top: 12vh;
+  height: 88vh;
+  background-color: rgba(0, 0, 0, 0.612);
+  border-right: solid 2px;
+  p {
+    /* border-bottom: solid white; */
     cursor: pointer;
+    padding: 20px 24px;
+    background-color: black;
+    border-radius: 30px;
+  }
+  p:hover{
+    /* border: solid red; */
+    box-shadow: 0 0 8px 8px red;
+    /* animation: itemAni 0.5s forwards; */
   }
 }
-
-
+#top-nav {
+  height: 12vh;
+  background-color: rgba(0, 0, 0, 0.612);
+}
+#main-content {
+  position: absolute;
+  width: 85vw;
+  left: 13vw;
+  top: 13vh;
+  margin-right: 1vw;
+  z-index: -1;
+}
+#home {
+  height: 60vh;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+@keyframes itemAni {
+  100%{
+    box-shadow: 0 0 8px 8px red;
+    padding: 20px;
+    padding-bottom: 0;
+  }
+}
+.item:hover{
+  animation: itemAni 0.5s forwards;
+}

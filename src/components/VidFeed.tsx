@@ -16,6 +16,8 @@ const VidFeed = () => {
       });
   }, []);
 
+  console.log("Worksss");
+  
   return (
     <>
       {data.items.length >= 2 && (

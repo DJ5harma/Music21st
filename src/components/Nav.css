@@ -64,7 +64,32 @@
   top: 12vh;
   /* border-right: solid; */
   height: 88vh;
-  width: 15vw;
+  width: 12vw;
+  background-color: rgba(0, 0, 0, 0.583);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  p {
+    cursor: pointer;
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px 20px;
+    border-bottom: solid 1px;
+  }
+  p:hover {
+    animation: glow-ani infinite 1s;
+  }
+}
+#right-nav {
+  position: fixed;
+  top: 12vh;
+  right: 0;
+  z-index: 4;
+  /* border-right: solid; */
+  height: 88vh;
+  width: 12vw;
   background-color: rgba(0, 0, 0, 0.583);
 
   display: flex;

@@ -2,12 +2,12 @@
   display: flex;
   width: 80vw;
   align-items: center;
-  justify-content: space-around;
+  /* justify-content: space-around; */
   flex-wrap: wrap;
 
   .top-video {
-    width: 35vw;
-    height: 20vw;
+    width: 17vw;
+    height: 9.6vw;
   }
 }
 @keyframes vid-ani {

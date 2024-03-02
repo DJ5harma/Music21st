@@ -1,0 +1,14 @@
+Api key:
+AIzaSyBPH5TXPBdh5LJ6FjRaPxZHTLsOQEKglFc
+channel id: 
+UC-n0Lb4OgE-ROCu7uOuGI7w
+
+url: 
+
+
+playlistURL: 
+https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=15&playlistId=[pl_ID]&key=AIzaSyBPH5TXPBdh5LJ6FjRaPxZHTLsOQEKglFc
+
+list of playLists:
+https://youtube.googleapis.com/youtube/v3/playlists?part=snippet%2CcontentDetails&channelId=UC-n0Lb4OgE-ROCu7uOuGI7w&maxResults=[max_Results]&key=AIzaSyBPH5TXPBdh5LJ6FjRaPxZHTLsOQEKglFc
+

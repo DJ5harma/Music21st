@@ -1,0 +1,2276 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "gTZOJKqcpfdLzd9BpqcJmQ2bOyE",
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+        "totalResults": 102,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "ihydqIHiNJmUeHbRH-BwwFVcpJo",
+            "id": "PLN4YAnH-5XhWAi7ZPRn6UhFuo80su2XBw",
+            "snippet": {
+                "publishedAt": "2024-02-16T06:01:31Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "भूपेश्वरी",
+                "description": "भूपेश्वरी राग कोई पारंपरिक राग नहीं है।\n\nयह आम तौर पर स्वीकार किया जाता है कि इसे 1990 और 2000 के दशक के बीच बनाया गया था। इसका निर्माण जयपुर-अतरौली घराने के उस्ताद अल्लादिया खान द्वारा किया गया होगा, हालाँकि यह उनकी मृत्यु के बाद ही सामने आया। इसका श्रेय पं. को भी दिया जाता है। किराना घराने के मणि प्रसाद.\n\nऔडव राग महत्वपूर्ण अस्पष्टता की अनुमति देता है। चूँकि शेष स्वर/स्वर अज्ञात हैं, इसलिए इसके मूल राग या पैमाने को निर्धारित करना काफी कठिन है। यह राग भातखंडे के किसी भी थाट में फिट नहीं बैठता। इसे मेलाकार्ता चक्रवम, मेलाकार्ट मारारंजनी, मेलाकार्ता चारुकेसी और मेलाकार्ता सारसंगी से जोड़ा जा सकता है।[1]\n\n'भूपेश्वरी' नाम राग भोपाली से प्रेरणा लेकर आया। हालाँकि, इस राग के पूरे भारत में विभिन्न नाम हैं। पं. प्रसिद्ध बांसुरी वादक हरिप्रसाद चौरसिया राग भूपकली नाम पसंद करते हैं, जबकि जयपुर-अतरौली घराने के अधिकांश संगीतकार राग प्रतीक्षा का उपयोग करते हैं। भूपश्री, भूपश्री आदि अन्य विविधताएँ भी मौजूद हैं। कर्नाटक संगीत में राग को राग वसंती कहा जाता है।",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n5gxgKCStXE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n5gxgKCStXE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n5gxgKCStXE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n5gxgKCStXE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/n5gxgKCStXE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "भूपेश्वरी",
+                    "description": "भूपेश्वरी राग कोई पारंपरिक राग नहीं है।\n\nयह आम तौर पर स्वीकार किया जाता है कि इसे 1990 और 2000 के दशक के बीच बनाया गया था। इसका निर्माण जयपुर-अतरौली घराने के उस्ताद अल्लादिया खान द्वारा किया गया होगा, हालाँकि यह उनकी मृत्यु के बाद ही सामने आया। इसका श्रेय पं. को भी दिया जाता है। किराना घराने के मणि प्रसाद.\n\nऔडव राग महत्वपूर्ण अस्पष्टता की अनुमति देता है। चूँकि शेष स्वर/स्वर अज्ञात हैं, इसलिए इसके मूल राग या पैमाने को निर्धारित करना काफी कठिन है। यह राग भातखंडे के किसी भी थाट में फिट नहीं बैठता। इसे मेलाकार्ता चक्रवम, मेलाकार्ट मारारंजनी, मेलाकार्ता चारुकेसी और मेलाकार्ता सारसंगी से जोड़ा जा सकता है।[1]\n\n'भूपेश्वरी' नाम राग भोपाली से प्रेरणा लेकर आया। हालाँकि, इस राग के पूरे भारत में विभिन्न नाम हैं। पं. प्रसिद्ध बांसुरी वादक हरिप्रसाद चौरसिया राग भूपकली नाम पसंद करते हैं, जबकि जयपुर-अतरौली घराने के अधिकांश संगीतकार राग प्रतीक्षा का उपयोग करते हैं। भूपश्री, भूपश्री आदि अन्य विविधताएँ भी मौजूद हैं। कर्नाटक संगीत में राग को राग वसंती कहा जाता है।"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7O4Dug2e_4ue4b9_WktJPmUjfsA",
+            "id": "PLN4YAnH-5XhU2hId9P-4-wSEHFHHt_s8-",
+            "snippet": {
+                "publishedAt": "2023-11-20T07:03:26Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "मंत्र सीरीज : Mantra Series",
+                "description": "मंत्र वह ध्वनि है जो अक्षरों एवं शब्दों के समूह से बनती है। यह संपूर्ण ब्रह्माण्ड एक तरंगात्मक ऊर्जा से व्याप्त है जिसके दो प्रकार हैं - नाद (शब्द) एवं प्रकाश। आध्यात्मिक धरातल पर इनमें से शब्कोई भी एक प्रकार की ऊर्जा दूसरे के बिना सक्रिय नहीं होती। मंत्र मात्र वह ध्वनियाँ नहीं हैं जिन्हें हम कानों से सुनते हैं, यह ध्वनियाँ तो मंत्रों का लौकिक स्वरुप भर हैं।\n\nध्यान की उच्चतम अवस्था में साधक का आध्यात्मिक व्यक्तित्व पूरी तरह से प्रभु के साथ एकाकार हो जाता है जो अन्तर्यामी है। वही सारे ज्ञान एवं 'शब्द' (ॐ) का स्रोत है। प्राचीन ऋषियों ने इसे शब्द-ब्रह्म की संज्ञा दी - वह शब्द जो साक्षात् ईश्वर है! उसी सर्वज्ञानी शब्द-ब्रह्म से एकाकार होकर साधक मनचाहा ज्ञान प्राप्त कर सकता है।",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xnpUKuzVsqY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xnpUKuzVsqY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xnpUKuzVsqY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xnpUKuzVsqY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/xnpUKuzVsqY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "मंत्र सीरीज : Mantra Series",
+                    "description": "मंत्र वह ध्वनि है जो अक्षरों एवं शब्दों के समूह से बनती है। यह संपूर्ण ब्रह्माण्ड एक तरंगात्मक ऊर्जा से व्याप्त है जिसके दो प्रकार हैं - नाद (शब्द) एवं प्रकाश। आध्यात्मिक धरातल पर इनमें से शब्कोई भी एक प्रकार की ऊर्जा दूसरे के बिना सक्रिय नहीं होती। मंत्र मात्र वह ध्वनियाँ नहीं हैं जिन्हें हम कानों से सुनते हैं, यह ध्वनियाँ तो मंत्रों का लौकिक स्वरुप भर हैं।\n\nध्यान की उच्चतम अवस्था में साधक का आध्यात्मिक व्यक्तित्व पूरी तरह से प्रभु के साथ एकाकार हो जाता है जो अन्तर्यामी है। वही सारे ज्ञान एवं 'शब्द' (ॐ) का स्रोत है। प्राचीन ऋषियों ने इसे शब्द-ब्रह्म की संज्ञा दी - वह शब्द जो साक्षात् ईश्वर है! उसी सर्वज्ञानी शब्द-ब्रह्म से एकाकार होकर साधक मनचाहा ज्ञान प्राप्त कर सकता है।"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ssFMri2QkdwawIZIZgVqQ3sc_Og",
+            "id": "PLN4YAnH-5XhVACIkNPyXob-S7iiqZ1qIF",
+            "snippet": {
+                "publishedAt": "2023-09-14T05:50:29Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "MADITATE WITH NATURE: NATURE VIDEOS WITH HEALING MUSIC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hs0f3AcuT1s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hs0f3AcuT1s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hs0f3AcuT1s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Hs0f3AcuT1s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Hs0f3AcuT1s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "MADITATE WITH NATURE: NATURE VIDEOS WITH HEALING MUSIC",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 2
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "YTp-DNqN4Oz6cbvR5zNrYFcgBUI",
+            "id": "PLN4YAnH-5XhV1ml5mH0vhGDH1sLsC5xJ6",
+            "snippet": {
+                "publishedAt": "2023-09-14T03:47:28Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "SHORTS -INSTRUMENTAL",
+                "description": "ALL INDIAN INSTRUMENTAL",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/880voKDk5jQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/880voKDk5jQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/880voKDk5jQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/880voKDk5jQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/880voKDk5jQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "SHORTS -INSTRUMENTAL",
+                    "description": "ALL INDIAN INSTRUMENTAL"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WT8Zq9K4lRHGieCoqW8DSv4DjVY",
+            "id": "PLN4YAnH-5XhW06_QvYzcSh4AzGo5yn7S9",
+            "snippet": {
+                "publishedAt": "2023-03-26T10:47:04Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग शहाना कान्हड़ा: Raag Shahana Parichay",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2vK5xwxXfKU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2vK5xwxXfKU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2vK5xwxXfKU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2vK5xwxXfKU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2vK5xwxXfKU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग शहाना कान्हड़ा: Raag Shahana Parichay",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "DF4ZuCOmkee0do2QYabztYWewjQ",
+            "id": "PLN4YAnH-5XhVMC1yIQoe-mtiRYat1KsVD",
+            "snippet": {
+                "publishedAt": "2023-03-24T08:16:51Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग मधुकौंस | Raag Madhukauns",
+                "description": "Raga Madhukaunas is a relatively new raga and has gained considerable popularity in a short span of time, creating a very impressive atmosphere. The attachment of Gandhar soft to medium intense creates an atmosphere of anxiety in this raga which seems to reflect the anxiety of Virahani. That's why the restrictions of separation are more suitable in this raga. This is Meend Pradhan Raga. The connoisseurs consider this raag to be a mixture of raag Madhuvanti and raag Malkauns. Sa G1 Mp - Madhuvanti's form is visible from these swaras and while coming from Gandhar Komal to shadj, Gandhar Komal comes to shadj with Meend by keeping it long, in which ragang of Kaus is reflected.\nराग मधुकौंस अपेक्षाकृत नया राग है और अत्यंत प्रभावशाली वातावरण बनाने के कारण, कम समय में ही पर्याप्त प्रचलन में आ गया है। गंधार कोमल से मध्यम तीव्र का लगाव, इस राग में व्यग्रता का वातावरण पैदा करता है जो विरहणी की व्यग्रता को दर्शाता हुआ प्रतीत होता है। इसलिए इस राग में विरह रस की बंदिशें अधिक उपयक्त होती हैं। यह मींड प्रधान राग है। गुणीजन इस राग को राग मधुवंती और राग मालकौंस का मिश्रण मानते हैं। सा ग१ म् प - इन स्वरों से मधुवंती का स्वरुप दिखता है और गंधार कोमल से षड्ज पर आते समय गंधार कोमल को दीर्घ रख कर मींड के साथ षड्ज पर आते हैं जिसमें कौंस का रागांग झलकता है।",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0jESDKS3Q3o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0jESDKS3Q3o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0jESDKS3Q3o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0jESDKS3Q3o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग मधुकौंस | Raag Madhukauns",
+                    "description": "Raga Madhukaunas is a relatively new raga and has gained considerable popularity in a short span of time, creating a very impressive atmosphere. The attachment of Gandhar soft to medium intense creates an atmosphere of anxiety in this raga which seems to reflect the anxiety of Virahani. That's why the restrictions of separation are more suitable in this raga. This is Meend Pradhan Raga. The connoisseurs consider this raag to be a mixture of raag Madhuvanti and raag Malkauns. Sa G1 Mp - Madhuvanti's form is visible from these swaras and while coming from Gandhar Komal to shadj, Gandhar Komal comes to shadj with Meend by keeping it long, in which ragang of Kaus is reflected.\nराग मधुकौंस अपेक्षाकृत नया राग है और अत्यंत प्रभावशाली वातावरण बनाने के कारण, कम समय में ही पर्याप्त प्रचलन में आ गया है। गंधार कोमल से मध्यम तीव्र का लगाव, इस राग में व्यग्रता का वातावरण पैदा करता है जो विरहणी की व्यग्रता को दर्शाता हुआ प्रतीत होता है। इसलिए इस राग में विरह रस की बंदिशें अधिक उपयक्त होती हैं। यह मींड प्रधान राग है। गुणीजन इस राग को राग मधुवंती और राग मालकौंस का मिश्रण मानते हैं। सा ग१ म् प - इन स्वरों से मधुवंती का स्वरुप दिखता है और गंधार कोमल से षड्ज पर आते समय गंधार कोमल को दीर्घ रख कर मींड के साथ षड्ज पर आते हैं जिसमें कौंस का रागांग झलकता है।"
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "8cqzDaLiPG1qBKS91ff9i-jw-XI",
+            "id": "PLN4YAnH-5XhU5J0ywyzdYRyxkCWUqMeQZ",
+            "snippet": {
+                "publishedAt": "2023-01-28T05:12:42Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "RAG SHANKRA:राग शंकरा",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QFhMJlT88b4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QFhMJlT88b4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QFhMJlT88b4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QFhMJlT88b4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QFhMJlT88b4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "RAG SHANKRA:राग शंकरा",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 14
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "OXFkZQmdnhBH2okzX_U0jEhmJdo",
+            "id": "PLN4YAnH-5XhWGcQYr7c6mWZ6hZS37vR4O",
+            "snippet": {
+                "publishedAt": "2023-01-23T06:26:51Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Rupak Taal: रूपक ताल",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oWBS4XJjrUc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oWBS4XJjrUc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oWBS4XJjrUc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oWBS4XJjrUc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oWBS4XJjrUc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Rupak Taal: रूपक ताल",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 4
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "lfV6W4BzxTwyY16hCzRCZaGZKgw",
+            "id": "PLN4YAnH-5XhVbcMFb7hk1EPnNwEpS6N_s",
+            "snippet": {
+                "publishedAt": "2022-12-25T17:05:00Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग हेमंत:: Rag Hemant",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/86zY5unry2A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/86zY5unry2A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/86zY5unry2A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/86zY5unry2A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/86zY5unry2A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग हेमंत:: Rag Hemant",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XvYKrpzakkIzMaL2H61FlJWgA-4",
+            "id": "PLN4YAnH-5XhXrfR7j7APeAtmPjqEtutsR",
+            "snippet": {
+                "publishedAt": "2022-12-06T07:00:34Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "श्याम कल्याण: SHAYAM KALYAN",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XZJHMTa-Tsg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XZJHMTa-Tsg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XZJHMTa-Tsg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XZJHMTa-Tsg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XZJHMTa-Tsg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "श्याम कल्याण: SHAYAM KALYAN",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "QkXVJXxg1STf3MnIXVTGgjxWLwY",
+            "id": "PLN4YAnH-5XhUE3E7bMcKJ9RTZH8uUwlul",
+            "snippet": {
+                "publishedAt": "2022-10-10T11:54:27Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "DJ SOUNDS",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m1pVlXkMIQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m1pVlXkMIQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m1pVlXkMIQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m1pVlXkMIQs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m1pVlXkMIQs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "DJ SOUNDS",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "InJmwVaw7j1vGFbn-hbCsTKyngY",
+            "id": "PLN4YAnH-5XhXtavKCTaoq2F6vY8tDUj0_",
+            "snippet": {
+                "publishedAt": "2022-09-24T05:41:31Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग धानी: Rag Dhani",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EF51g2plVkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EF51g2plVkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EF51g2plVkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EF51g2plVkU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EF51g2plVkU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग धानी: Rag Dhani",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "OnWQISS4PRKeIOWN6okDRWqDkhg",
+            "id": "PLN4YAnH-5XhUNS7TCYkGI0NssNZPsgOrX",
+            "snippet": {
+                "publishedAt": "2022-09-23T04:53:01Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Bairagi Todi: बैरागी तोडी",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bcb3C8Ddc4Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bcb3C8Ddc4Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bcb3C8Ddc4Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bcb3C8Ddc4Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bcb3C8Ddc4Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Bairagi Todi: बैरागी तोडी",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "3GkHP6zfiLVQEVwpodUcYEXzyXM",
+            "id": "PLN4YAnH-5XhV7OKi79NyQ_T9zLMfvB4-H",
+            "snippet": {
+                "publishedAt": "2022-09-22T04:34:55Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग परमेश्वरी: Raag Parmeshwari",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7PfEqS22H3g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7PfEqS22H3g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7PfEqS22H3g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7PfEqS22H3g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7PfEqS22H3g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग परमेश्वरी: Raag Parmeshwari",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 13
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fER2PPt5_gD9ef-A49DeI9DmEf0",
+            "id": "PLN4YAnH-5XhUzqluFYpna-EDXhD1MF5GA",
+            "snippet": {
+                "publishedAt": "2022-09-17T11:03:49Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग देसी: Raag Deshi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wFmbwCcBl1U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wFmbwCcBl1U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wFmbwCcBl1U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wFmbwCcBl1U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग देसी: Raag Deshi",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 13
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "z0baJxcZJXVihqCbJRmvMHu-ai0",
+            "id": "PLN4YAnH-5XhU7NQDXdnDqZZAALDLSyNE1",
+            "snippet": {
+                "publishedAt": "2022-09-09T14:03:42Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग भूपाल तोडी: Rag Bhupal Todi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o6rhiH1uUsk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o6rhiH1uUsk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o6rhiH1uUsk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/o6rhiH1uUsk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/o6rhiH1uUsk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग भूपाल तोडी: Rag Bhupal Todi",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "f67iQSNkN1QfHCuubesMpg0C3Pg",
+            "id": "PLN4YAnH-5XhVT7vILgiegiaJCxgb1s1I0",
+            "snippet": {
+                "publishedAt": "2022-09-08T06:11:12Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Deshkar:राग देशकार",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YFC_TkO28wY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YFC_TkO28wY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YFC_TkO28wY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YFC_TkO28wY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YFC_TkO28wY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Deshkar:राग देशकार",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "nI4TaX4mRlryLpZjPIL7nV52hhw",
+            "id": "PLN4YAnH-5XhX2kOJccxUUkTVFcgSUBMis",
+            "snippet": {
+                "publishedAt": "2022-08-30T02:47:25Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग मधुमाद सारंग: Madhumad Sarang",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iVHGK3EUQhA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iVHGK3EUQhA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iVHGK3EUQhA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iVHGK3EUQhA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iVHGK3EUQhA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग मधुमाद सारंग: Madhumad Sarang",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "h7nRuP4YrCUTxMKQOUb-X1acqgI",
+            "id": "PLN4YAnH-5XhU808Jh8vokF2Xuuun9BxGH",
+            "snippet": {
+                "publishedAt": "2022-08-09T08:35:18Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Abhogi Kanhada:",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/prd6zVCYQ0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/prd6zVCYQ0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/prd6zVCYQ0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/prd6zVCYQ0Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/prd6zVCYQ0Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Abhogi Kanhada:",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "exe_EUCrSyfqJCUWzcblQ1aEsyE",
+            "id": "PLN4YAnH-5XhVZ1RJHtQyehC5-0bv1dzWl",
+            "snippet": {
+                "publishedAt": "2022-07-20T08:05:14Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग पूरिया कल्याण: Raag Puriya Kalyan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fWfsLY4acNs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fWfsLY4acNs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fWfsLY4acNs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fWfsLY4acNs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग पूरिया कल्याण: Raag Puriya Kalyan",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 10
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "t6n67E_lJNPJX6p7-UwcoYFOge4",
+            "id": "PLN4YAnH-5XhXQ__ty3PO_0VazFcZ03rag",
+            "snippet": {
+                "publishedAt": "2022-06-01T16:33:44Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Sindhi Bhairvi: सिंधी भैरवी",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-JGlO7GjhgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-JGlO7GjhgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-JGlO7GjhgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-JGlO7GjhgE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-JGlO7GjhgE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Sindhi Bhairvi: सिंधी भैरवी",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ny6Nzdx0lFbFqUCTR2ar8uIgdIY",
+            "id": "PLN4YAnH-5XhWgrZlqQ3mbFOQj0hesgZ30",
+            "snippet": {
+                "publishedAt": "2022-05-29T14:55:18Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Hamir: राग हमीर",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QVARNoDgpVw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QVARNoDgpVw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QVARNoDgpVw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QVARNoDgpVw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QVARNoDgpVw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Hamir: राग हमीर",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "-wC0WVC3YzbC58vfy7TeccEEb_c",
+            "id": "PLN4YAnH-5XhUmtE3iiyRyjMxzVoW56JYO",
+            "snippet": {
+                "publishedAt": "2022-05-27T16:03:20Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Durga:राग दुर्गा",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/egZ1KeuYScg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/egZ1KeuYScg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/egZ1KeuYScg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/egZ1KeuYScg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/egZ1KeuYScg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Durga:राग दुर्गा",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Ipp9irL2gIxJ62rQh1r1SjwsW14",
+            "id": "PLN4YAnH-5XhVjrUI5R4mSGPUMkWgG8Y2J",
+            "snippet": {
+                "publishedAt": "2022-05-25T09:20:13Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Kamod -राग कामोद",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HeAj9FylY8M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HeAj9FylY8M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HeAj9FylY8M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HeAj9FylY8M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Kamod -राग कामोद",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "XtB7nZLJbzlCk6ko7McQVa-RQrE",
+            "id": "PLN4YAnH-5XhVJx-vtPbkgd2Qopu1je9CC",
+            "snippet": {
+                "publishedAt": "2022-05-22T17:28:33Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Jogiya  : जोगिया",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LaLdHxY9Ti0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LaLdHxY9Ti0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LaLdHxY9Ti0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LaLdHxY9Ti0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LaLdHxY9Ti0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Jogiya  : जोगिया",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "cgzI55Y9PdrttIsmj3gC1bte91g",
+            "id": "PLN4YAnH-5XhW4C3s-gEduN4i6N0qO_ZDP",
+            "snippet": {
+                "publishedAt": "2022-05-08T08:21:00Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग पूर्वी: Rag Poorvi",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Eva9WrtZCFg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Eva9WrtZCFg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Eva9WrtZCFg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Eva9WrtZCFg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Eva9WrtZCFg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग पूर्वी: Rag Poorvi",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Y07Zxlj3TOPoCowF6q8eYLyLqQE",
+            "id": "PLN4YAnH-5XhVxGnedeJmwPiH7A54oVhVu",
+            "snippet": {
+                "publishedAt": "2022-04-09T01:38:54Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग - शुद्ध कल्याण: Shudh Kalyan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fZio2D-UDPE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fZio2D-UDPE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fZio2D-UDPE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fZio2D-UDPE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fZio2D-UDPE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग - शुद्ध कल्याण: Shudh Kalyan",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "JH3pQCyLdCY3lWtKoV2woEammlw",
+            "id": "PLN4YAnH-5XhXtikHCPtq1_626jp4kNqqA",
+            "snippet": {
+                "publishedAt": "2022-04-06T04:18:02Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "गोरख कल्याण-Gorakh Kalyan",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FUbxzzrrLck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FUbxzzrrLck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FUbxzzrrLck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FUbxzzrrLck/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FUbxzzrrLck/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "गोरख कल्याण-Gorakh Kalyan",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "D26jgsJekL3ulNaC12xvGN1Ki4c",
+            "id": "PLN4YAnH-5XhXgSD_ZSxizLP7nIyD6NxyL",
+            "snippet": {
+                "publishedAt": "2022-04-02T17:02:26Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग बिलासखानी तोडी: BILASKHANI TODI",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i0u1fG2jT2k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i0u1fG2jT2k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i0u1fG2jT2k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i0u1fG2jT2k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i0u1fG2jT2k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग बिलासखानी तोडी: BILASKHANI TODI",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "tDVqLBc3Mjg_k4gjtGCapt9QzI0",
+            "id": "PLN4YAnH-5XhVhJkBbNSIwhvCfW7lM3vPn",
+            "snippet": {
+                "publishedAt": "2022-03-24T07:59:48Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "चौताल -CHAUTAAL",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rvV_9wsEgxs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rvV_9wsEgxs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rvV_9wsEgxs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rvV_9wsEgxs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rvV_9wsEgxs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "चौताल -CHAUTAAL",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 5
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "I58ugZ-nl9x4rCzOuP2AEe42TxY",
+            "id": "PLN4YAnH-5XhVI2ueR6km54Im4Nr53K603",
+            "snippet": {
+                "publishedAt": "2022-03-23T17:40:30Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "BHAJAN THEKA-भजन ठेका",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XuR2SY4aXOE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XuR2SY4aXOE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XuR2SY4aXOE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XuR2SY4aXOE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XuR2SY4aXOE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "BHAJAN THEKA-भजन ठेका",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 7
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "xdTGbxNRRsKZQtYcC3anXOusSPs",
+            "id": "PLN4YAnH-5XhUlSVWKz5eh_pkJg3CnrT6C",
+            "snippet": {
+                "publishedAt": "2022-03-17T05:03:31Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "JHAP TAL-झप ताल",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qTHNtfbZJMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qTHNtfbZJMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qTHNtfbZJMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qTHNtfbZJMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qTHNtfbZJMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "JHAP TAL-झप ताल",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "8-noa-npfu_woAIGv6gL0Y4vyy4",
+            "id": "PLN4YAnH-5XhUqKq5vxaWW0W52SwKySpqQ",
+            "snippet": {
+                "publishedAt": "2022-02-25T14:56:20Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Ghazal-Practice Track--ग़ज़ल प्रैक्टिस ट्रैक",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NfJSDKBdDU8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NfJSDKBdDU8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NfJSDKBdDU8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NfJSDKBdDU8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NfJSDKBdDU8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Ghazal-Practice Track--ग़ज़ल प्रैक्टिस ट्रैक",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 3
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "Qdj8lUaJDgiKFPeMj61FewxhhxU",
+            "id": "PLN4YAnH-5XhXEBaUTRD5IKCsu7bULomn6",
+            "snippet": {
+                "publishedAt": "2022-02-24T05:04:41Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "GUNKALI-राग गुणकली",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mmDUKPcf820/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mmDUKPcf820/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mmDUKPcf820/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mmDUKPcf820/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mmDUKPcf820/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "GUNKALI-राग गुणकली",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "e9Q3_VEFxZV8XYnam3MwYXGQ9G8",
+            "id": "PLN4YAnH-5XhXsc_6xt7o6hYPC5LuU6vV_",
+            "snippet": {
+                "publishedAt": "2022-02-19T09:21:14Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "PILU-राग पीलू",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m10u23_EO1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m10u23_EO1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m10u23_EO1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m10u23_EO1Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m10u23_EO1Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "PILU-राग पीलू",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "BK7LKa7CuLUVnsN-i0AG55yF_Ug",
+            "id": "PLN4YAnH-5XhXEvRsYtolwLFdxwDBjQCTu",
+            "snippet": {
+                "publishedAt": "2022-02-11T04:32:52Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "BHATIYAR",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DxnllW649AQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DxnllW649AQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DxnllW649AQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DxnllW649AQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DxnllW649AQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "BHATIYAR",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "ldRei8D1Y72XuEwXBX7CBxVWKnY",
+            "id": "PLN4YAnH-5XhVZfscXUjLLLBhCNi3DZJAa",
+            "snippet": {
+                "publishedAt": "2022-02-09T08:10:21Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "MULTANI",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aVBcQtOMWBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aVBcQtOMWBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aVBcQtOMWBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aVBcQtOMWBc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "MULTANI",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "zsHmabED_7xpFoSvmp-PqDTr030",
+            "id": "PLN4YAnH-5XhXPjV4lslvSo7mymGD9CFmP",
+            "snippet": {
+                "publishedAt": "2022-02-02T09:22:05Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "MEDITATION & HEALING MUSIC",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TfLtzGprtM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TfLtzGprtM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TfLtzGprtM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TfLtzGprtM0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TfLtzGprtM0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "MEDITATION & HEALING MUSIC",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "M0eZxwsL4ZpdJduFiQldRuYxBcY",
+            "id": "PLN4YAnH-5XhWB4cFZtFP8B9WwC6qSvAjQ",
+            "snippet": {
+                "publishedAt": "2022-01-31T10:09:53Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "राग रागेश्वरी : Rageshree",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/msc1_NaCv0s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/msc1_NaCv0s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/msc1_NaCv0s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/msc1_NaCv0s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/msc1_NaCv0s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "राग रागेश्वरी : Rageshree",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 16
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "z5qXsLBrB2O5YIPc0eZPFk57XtY",
+            "id": "PLN4YAnH-5XhV4D-P6Sp3HmHvmDDaUbUWi",
+            "snippet": {
+                "publishedAt": "2022-01-29T09:55:07Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "BASANT",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pBmSN5K1iBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pBmSN5K1iBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pBmSN5K1iBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pBmSN5K1iBY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "BASANT",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "hAohN3lCm3Bhf4hEvI3LgbB1D3g",
+            "id": "PLN4YAnH-5XhXSLlekqx3I9FG16gzWjDvm",
+            "snippet": {
+                "publishedAt": "2022-01-28T11:12:00Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "BAIRAGI",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q8nTOZMs46g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q8nTOZMs46g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q8nTOZMs46g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q8nTOZMs46g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q8nTOZMs46g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "BAIRAGI",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "TU2tbrSEDLOQFVQpUS-c3nKwVk4",
+            "id": "PLN4YAnH-5XhUKRkHMXAYj8G-Fl9J6WOmO",
+            "snippet": {
+                "publishedAt": "2022-01-26T06:05:11Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "GUJRI TODI",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/trGazOiCu20/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/trGazOiCu20/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/trGazOiCu20/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/trGazOiCu20/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/trGazOiCu20/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "GUJRI TODI",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "x3WpBCaPNjGQ3FkcgCc6Ec4nKJ4",
+            "id": "PLN4YAnH-5XhXNrt9JsUN5_EGYjN1_Fg3T",
+            "snippet": {
+                "publishedAt": "2022-01-20T10:48:54Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Jai-Jai Vanti  जय जयवंती",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F8Vx1fDvTFY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F8Vx1fDvTFY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F8Vx1fDvTFY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F8Vx1fDvTFY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F8Vx1fDvTFY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Jai-Jai Vanti  जय जयवंती",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "0ZEXG-B_mS2YW5IsQbaxeAfepjM",
+            "id": "PLN4YAnH-5XhWE_a9fgy_1PIgRYmN-HJXL",
+            "snippet": {
+                "publishedAt": "2022-01-16T12:58:15Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Shree",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jQsr3MKv5fk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jQsr3MKv5fk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jQsr3MKv5fk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jQsr3MKv5fk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jQsr3MKv5fk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Shree",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "PpvGJ_m5aML5LBPwAbj-5SIoSic",
+            "id": "PLN4YAnH-5XhXKloIg2Vnnfit_hU9Z9hXr",
+            "snippet": {
+                "publishedAt": "2022-01-15T11:25:25Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "KEDAR",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LpOYUca6ihI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LpOYUca6ihI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LpOYUca6ihI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LpOYUca6ihI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LpOYUca6ihI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "KEDAR",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9fuNz34J5mBHvPzllPX5fDeP5Ek",
+            "id": "PLN4YAnH-5XhV2ck-TUALMMv4xuUCezpum",
+            "snippet": {
+                "publishedAt": "2022-01-13T12:48:28Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "LALIT",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eQBDChAcZv4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eQBDChAcZv4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eQBDChAcZv4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eQBDChAcZv4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eQBDChAcZv4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "LALIT",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "3uLpw20tVlfJ0B4dXC7tKWPXvNw",
+            "id": "PLN4YAnH-5XhWj3fA9LpjcO9kls4ZkuqF1",
+            "snippet": {
+                "publishedAt": "2021-11-03T14:43:37Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "New Songs 2021",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gFf-_K7INjE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gFf-_K7INjE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gFf-_K7INjE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gFf-_K7INjE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "New Songs 2021",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 1
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "VESI9hX5031BUA7PUxptzyRuPRg",
+            "id": "PLN4YAnH-5XhVyalGtc-oAb50_dfyy2LAY",
+            "snippet": {
+                "publishedAt": "2021-10-20T02:29:36Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "MIYA MALHAR",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rGtjon80fFk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rGtjon80fFk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rGtjon80fFk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rGtjon80fFk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rGtjon80fFk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "MIYA MALHAR",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 12
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "0ET4DOMAADP0_QXi6o_tFTTPKgo",
+            "id": "PLN4YAnH-5XhVB6H59DD0H2O1_5lJ1duQG",
+            "snippet": {
+                "publishedAt": "2021-10-16T15:28:12Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "ADDHA TAAL",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z2BOBgL_C0w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z2BOBgL_C0w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z2BOBgL_C0w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z2BOBgL_C0w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z2BOBgL_C0w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "ADDHA TAAL",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 7
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "9KufZYdCZBXoKK3rwkcz7ZSJiTU",
+            "id": "PLN4YAnH-5XhVN-zETGlpV1AHIt_uAD-bQ",
+            "snippet": {
+                "publishedAt": "2021-09-05T05:19:09Z",
+                "channelId": "UC-n0Lb4OgE-ROCu7uOuGI7w",
+                "title": "Tanpura-High Quality",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1tltoeZX_SA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1tltoeZX_SA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1tltoeZX_SA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1tltoeZX_SA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1tltoeZX_SA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Music 21st",
+                "localized": {
+                    "title": "Tanpura-High Quality",
+                    "description": ""
+                }
+            },
+            "contentDetails": {
+                "itemCount": 11
+            }
+        }
+    ]
+}
