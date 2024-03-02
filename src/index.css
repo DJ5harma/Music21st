@@ -44,8 +44,15 @@ body {
   z-index: -1;
 }
 #home {
-  height: 60vh;
+  height: 80vh;
   background-color: rgba(0, 0, 0, 0.6);
+  img{
+    border-radius: 100%;
+    margin: 0 40px;
+  }
+  img:hover{
+    box-shadow: 0 0 8px 8px;
+  }
 }
 @keyframes itemAni {
   100%{

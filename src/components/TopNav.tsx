@@ -8,6 +8,7 @@ const TopNav = () => {
         <h2>Get your Instrument!</h2>
         <p>We'll help you!</p>
       </div>
+
       <div className="flex justify-around items-center w-4/12 h-16 border-2 rounded-3xl bg-black px-4">
         <a href="mailto:muzic21st@gmail.com">E-mail</a>
         <h1 className="text-3xl">Music 21st</h1>
